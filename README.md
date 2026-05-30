@@ -160,4 +160,4 @@ If you use this notebook or its experimental setup in your own work, please cite
 
 - [Fizza Kashif](https://github.com/fizza49)
 - [Tamkeen Sara](https://github.com/Tamkeen-Sara)
-- [Muhammad Furqan Raza](jkxa)
+- [Muhammad Furqan Raza](https://github.com/frqnrza)
